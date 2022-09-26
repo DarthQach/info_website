@@ -1,0 +1,39 @@
+body {
+    padding-top: 50px;
+    text-align: center;
+}
+
+header input {
+    border-radius: 5px;
+    margin: 25px 10px 0 10px;
+}
+
+header h2 {
+    padding: 25px 0;
+}
+
+#personal-sites {
+    margin-top: 50px;
+}
+
+button {
+    width: 70%;
+}
+
+.btn-primary {
+    background-color: #E86826;
+    border: none;
+}
+
+#google-search {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#links {
+    margin-top: 50px;
+}
+
+#tech-sites, #fin-sites, #sports-sites{
+    text-align: left;
+}
